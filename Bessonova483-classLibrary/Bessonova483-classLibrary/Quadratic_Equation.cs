@@ -23,14 +23,14 @@ namespace Bessonova483_classLibrary
             if (d == 0)
             {
                 x = new float[1];
-                x[0] = -b / 2 * a;
+                x[0] = (-b) / (2 * a);
                 return 1;
             }
             else
             {
                 x = new float[2];
-                x[0] = -b + (Convert.ToSingle(Math.Sqrt(d))) / 2 * a;
-                x[1] = -b - (Convert.ToSingle(Math.Sqrt(d))) / 2 * a;
+                x[0] = -b + (Convert.ToSingle(Math.Sqrt(d))) / (2 * a);
+                x[1] = -b - (Convert.ToSingle(Math.Sqrt(d))) / (2 * a);
                 return 2;
             }
 

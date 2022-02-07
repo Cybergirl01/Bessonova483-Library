@@ -3,3 +3,9 @@ F:\мои данные\vs\Bessonova483-classLibrary\Bessonova483-classLibrary\ob
 F:\мои данные\vs\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.csproj.CoreCompileInputs.cache
 F:\мои данные\vs\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.dll
 F:\мои данные\vs\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.pdb
+F:\мои данные\vs\Bessonova483 - library\Bessonova483-classLibrary\Bessonova483-classLibrary\bin\Debug\Bessonova483-classLibrary.dll
+F:\мои данные\vs\Bessonova483 - library\Bessonova483-classLibrary\Bessonova483-classLibrary\bin\Debug\Bessonova483-classLibrary.pdb
+F:\мои данные\vs\Bessonova483 - library\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.csproj.AssemblyReference.cache
+F:\мои данные\vs\Bessonova483 - library\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Bessonova483 - library\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.dll
+F:\мои данные\vs\Bessonova483 - library\Bessonova483-classLibrary\Bessonova483-classLibrary\obj\Debug\Bessonova483-classLibrary.pdb
