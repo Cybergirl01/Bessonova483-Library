@@ -1,0 +1,12 @@
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\bin\Debug\Bessonova483 - FormLibrary.exe.config
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\bin\Debug\Bessonova483 - FormLibrary.exe
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\bin\Debug\Bessonova483 - FormLibrary.pdb
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483 - FormLibrary.csproj.AssemblyReference.cache
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483___FormLibrary.Properties.Resources.resources
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483 - FormLibrary.csproj.GenerateResource.cache
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483 - FormLibrary.csproj.CoreCompileInputs.cache
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483 - FormLibrary.exe
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483 - FormLibrary.pdb
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\bin\Debug\Bessonova483-classLibrary.dll
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\bin\Debug\Bessonova483-classLibrary.pdb
+F:\мои данные\vs\Bessonova483 - FormLibrary\Bessonova483 - FormLibrary\obj\Debug\Bessonova483___FormLibrary.FormMain.resources
